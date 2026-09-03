@@ -1,0 +1,6 @@
+{
+  "name": "Addis Ababa Barber Shop",
+  "description": "Premier barbershop in Addis Ababa located on the Bethel to Alem Bank road featuring master barbers, razor-sharp fades, and appointment booking in English & Amharic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
